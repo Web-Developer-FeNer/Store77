@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "macro-css": "^1.0.5",
+    "node-sass": "^7.0.1",
+    "react-content-loader": "^6.2.0",
+    "react-router-dom": "^6.2.2"
+  }
+}
